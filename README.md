@@ -9,7 +9,7 @@ TODO:
 - change the hoaxshell> prompt to the working dir
   - Attempted to do this by having:
     ```        
-    pwd | OutDefault; <user_input>
+    pwd | Out-Default; <user_input>
     ```   
   if the user selected to, but the current code cuts everything before the pipe out
   - Little time was spent on this and I need to figure out how to do it properly
