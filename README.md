@@ -4,6 +4,7 @@ Changed:
 - changed the banner since one of the letters looked like something else...
 - added  -WindowStyle Hidden to the payload to hide the ps window after execution
 - changed the name of the X-hoax-id header to X-Requested-With --> need to make this a user definable option from a cmd line param or config file
+- added the ability to specify the http server line
 
 TODO:
 - change the hoaxshell> prompt to the working dir
