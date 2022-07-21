@@ -1,4 +1,4 @@
-## Amartinsec Hoaxshell fork edits/notes:
+## Hoaxshell fork edits/notes by amartinsec:
 Changed:
 - added ability to use Openssl to generate certs on the fly. stored in certs/
 - changed the banner since one of the letters looked like something else...
