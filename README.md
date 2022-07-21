@@ -1,8 +1,7 @@
 ## Amartinsec Hoaxshell fork edits/notes:
 Changed:
-- added ability to use Openssl to generate certs on the fly stored in certs/
-- changed powershell window to hidden after execution
-- changed the banner since one of the letters looked like something else
+- added ability to use Openssl to generate certs on the fly. stored in certs/
+- changed the banner since one of the letters looked like something else...
 - added  -WindowStyle Hidden to the payload to hide the ps window after execution
 - changed the name of the X-hoax-id header to X-Requested-With --> need to make this a user definable option from a cmd line param or config file
 
